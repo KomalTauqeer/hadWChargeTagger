@@ -140,4 +140,4 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - zstandard=0.14.1=py37h2531618_0
   - zstd=1.4.5=h9ceee32_0
-prefix: /vols/cms/mkomm/ST/Tagger/Env/miniconda/envs/tf
+
