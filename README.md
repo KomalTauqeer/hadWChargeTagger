@@ -16,4 +16,4 @@ set the auto_activate_base parameter to false:
 * To activate environment:```conda activate tf```
 * To deactivate environment: ```conda deactivate```
 * To see the list of your envs: ```conda info --envs```
-* To change your current environment back to the default (base): ```conda activate````
+* To change your current environment back to the default (base): ```conda activate```
