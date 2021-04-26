@@ -2,9 +2,9 @@
 
 ## Installation
 * Download miniconda for python3 from https://docs.conda.io/en/latest/miniconda.html
-* bash Miniconda3-latest-Linux-x86_64.sh to start installation
+* run ```bash Miniconda3-latest-Linux-x86_64.sh``` to start the installation.
 * Makesure you don't have preset path variables like PYTHONPATH etc. Also, do this outside of CMSSW.
-* your ~/.bashrc will be edited and path variables will be automatically set up
+* your ~/.bashrc will be edited and path variables will be automatically set up.
 * For changes to take effect, close and re-open your current shell.
 
 If you'd prefer that conda's base environment not be activated on startup, 
